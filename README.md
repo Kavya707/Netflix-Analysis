@@ -15,7 +15,7 @@ Created an interactive Power BI dashboard to analyze Netflix's library of TV sho
 
 ![Screenshot (541)](https://github.com/user-attachments/assets/09b75e65-d2ba-4a92-8b9c-5655b1dfc5b2)
 
-The dashboard highlights:
+## DashBoard Highlights
 
 -> Content Trends Over Time: Distribution of TV shows, movies, and web series across different years.
 -> Genre Analysis: Breakdown of content types and their popularity.
@@ -40,9 +40,9 @@ The dashboard highlights:
 
 ## Use Cases
 
-Content Strategy Teams: Decide which genres or content types to invest in further.
-Marketing Teams: Identify regions or genres to target for promotions.
-Product Teams: Leverage insights to enhance content recommendation algorithms.
+- Content Strategy Teams: Decide which genres or content types to invest in further.
+- Marketing Teams: Identify regions or genres to target for promotions.
+- Product Teams: Leverage insights to enhance content recommendation algorithms.
 
 ## Future Enhancements
 
