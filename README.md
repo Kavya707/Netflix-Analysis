@@ -17,12 +17,12 @@ Created an interactive Power BI dashboard to analyze Netflix's library of TV sho
 
 ## DashBoard Highlights
 
--> Content Trends Over Time: Distribution of TV shows, movies, and web series across different years.
--> Genre Analysis: Breakdown of content types and their popularity.
--> Top Countries Producing Content: Active regions contributing to Netflix’s content library.
--> Content Duration Insights: Average runtime analysis for movies and web series.
--> Release Year Patterns: Trends in content production over the years, including peak periods.
--> Content Ratings Distribution: Viewer demographic insights based on rating categories (e.g., PG, R, TV-MA).
+- Content Trends Over Time: Distribution of TV shows, movies, and web series across different years.
+- Genre Analysis: Breakdown of content types and their popularity.
+- Top Countries Producing Content: Active regions contributing to Netflix’s content library.
+- Content Duration Insights: Average runtime analysis for movies and web series.
+- Release Year Patterns: Trends in content production over the years, including peak periods.
+- Content Ratings Distribution: Viewer demographic insights based on rating categories (e.g., PG, R, TV-MA).
 
 ## Features
 
@@ -59,7 +59,7 @@ Build a forecasting model to predict emerging genres, popular content types, and
 
 - Power BI: Visualization and report creation.
 - SQL: Querying and transforming raw data.
-- Power Query: Data cleaning and preparation.
+- Excel: Data cleaning and preparation.
 - DAX: Advanced calculations and metrics.
 
 
